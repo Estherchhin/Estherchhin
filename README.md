@@ -83,6 +83,6 @@ Let’s build the next big thing together! 🚀
 ---
 
 ## 🎯 Profile Views
-<div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Estherchhin&icon=10&color=6" alt="Profile View Counter" />
-</div>
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=Estherchhin&label=Profile%20Views&pretty=false" />
+</a>
